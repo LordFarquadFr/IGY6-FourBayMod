@@ -136,6 +136,8 @@ Now use `Ctrl + Alt` instead of `Ctrl + Shift` for the tool and editor hotkeys. 
 
 If `MelonLoader\Latest.log` shows `SteamApi_Init returned false`, the game isn't running through Steam. CMS21-Together needs the Steam version.
 
+If the IGY6 mod is not loading, please make sure you installed properly. This will not work with pirated versions of the game. Our mod also needs Steam to work. If you need more help join our discord below!
+
 ---
 
 ## Configuration files
