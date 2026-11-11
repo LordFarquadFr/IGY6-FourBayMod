@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1816245729
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: adc8af12f00dc8e4b14735d680527c15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 22eb080ecfc35c6a6fe03359a4a4e7b6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/IGY6/Generated/IGY6_TwoBay_Garage_Extension.prefab
+Dependencies: []

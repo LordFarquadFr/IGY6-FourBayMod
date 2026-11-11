@@ -1,0 +1,853 @@
+# FixForTogether - eigene UI-Texte
+# Die Sprachabschnitte entsprechen 1:1 den 17 Vanilla-Dateinamen unter StreamingAssets/Localizations.
+# Format: Key=Text
+
+[Arabic]
+Warehouse.MoveAllToWarehouse=نقل الكل إلى المستودع
+Warehouse.MoveAllToInventory=نقل الكل إلى المخزون
+
+Invite.Title=دعوة صديق من Steam
+Invite.NoFriends=لم يتم العثور على أصدقاء Steam متصلين.
+Invite.Page=الصفحة {0}/{1}
+Invite.Previous=السابق
+Invite.Next=التالي
+Invite.Back=رجوع
+Invite.PlayingCMS21=يلعب CMS21 الآن
+Invite.PlayedCMS21=لعب CMS21
+Invite.Online=متصل
+Invite.Busy=مشغول
+Invite.Away=بعيد
+Invite.Invite=دعوة
+
+ModSettings.Save=حفظ
+ModSettings.Back=رجوع
+ModSettings.RestartNotice=تُكتب التغييرات إلى Setting.cfg. يلزم إعادة التشغيل لتطبيقها.
+ModSettings.Saved=تم الحفظ. يلزم إعادة التشغيل لتطبيق التغييرات.
+ModSettings.SaveFailed=فشل الحفظ. راجع السجل لمعرفة الخطأ.
+ModSettings.Changed=تم التغيير: {0}.{1} = {2}
+ModSettings.BoolTrue=تشغيل
+ModSettings.BoolFalse=إيقاف
+FixForTogether.Section.Debug=تصحيح
+FixForTogether.Debug.Enabled=مفعّل
+FixForTogether.Section.Autosave=الحفظ التلقائي
+FixForTogether.Section.Minigames=الألعاب المصغرة
+FixForTogether.Autosave.Enabled=مفعّل
+FixForTogether.Autosave.IntervalMinutes=الفاصل بالدقائق
+FixForTogether.Minigames.Skip=تخطي
+IngameLobby.Difficulty=الصعوبة: {0}
+IngameLobby.Difficulty.Normal=عادي
+IngameLobby.Difficulty.Expert=خبير
+IngameLobby.Difficulty.Creative=إبداعي
+
+DebugMenu.Button=MP قائمة التصحيح
+DebugMenu.Title=MP قائمة التصحيح
+DebugMenu.Inventory=المخزون
+DebugMenu.InventorySync=مزامنة المخزون
+DebugMenu.Cars=السيارات
+DebugMenu.CarSync=مزامنة سيارات المرآب
+DebugMenu.ParkingSync=مزامنة سيارات موقف السيارات
+DebugMenu.PlayerRecovery=اللاعب / الاستعادة
+DebugMenu.PlayerCharacterReset=إعادة ضبط الشخصية
+DebugMenu.UI=واجهة المستخدم
+DebugMenu.Back=رجوع
+DebugMenu.NoActions=لم تتم إضافة إجراءات لهذا القسم بعد.
+
+[Chinese]
+Warehouse.MoveAllToWarehouse=全部移至仓库
+Warehouse.MoveAllToInventory=全部移至库存
+
+Invite.Title=邀请 Steam 好友
+Invite.NoFriends=未找到在线 Steam 好友。
+Invite.Page=第 {0}/{1} 页
+Invite.Previous=上一页
+Invite.Next=下一页
+Invite.Back=返回
+Invite.PlayingCMS21=正在玩 CMS21
+Invite.PlayedCMS21=玩过 CMS21
+Invite.Online=在线
+Invite.Busy=忙碌
+Invite.Away=离开
+Invite.Invite=邀请
+
+ModSettings.Save=保存
+ModSettings.Back=返回
+ModSettings.RestartNotice=更改将写入 Setting.cfg。需要重启后生效。
+ModSettings.Saved=已保存。需要重启后生效。
+ModSettings.SaveFailed=保存失败。请查看日志中的错误。
+ModSettings.Changed=已更改：{0}.{1} = {2}
+ModSettings.BoolTrue=开
+ModSettings.BoolFalse=关
+FixForTogether.Section.Debug=调试
+FixForTogether.Debug.Enabled=启用
+FixForTogether.Section.Autosave=自动保存
+FixForTogether.Section.Minigames=小游戏
+FixForTogether.Autosave.Enabled=启用
+FixForTogether.Autosave.IntervalMinutes=间隔分钟
+FixForTogether.Minigames.Skip=跳过
+IngameLobby.Difficulty=难度：{0}
+IngameLobby.Difficulty.Normal=普通
+IngameLobby.Difficulty.Expert=专家
+IngameLobby.Difficulty.Creative=创意
+
+DebugMenu.Button=MP 调试菜单
+DebugMenu.Title=MP 调试菜单
+DebugMenu.Inventory=库存
+DebugMenu.InventorySync=同步库存
+DebugMenu.Cars=车辆
+DebugMenu.CarSync=同步车库车辆
+DebugMenu.ParkingSync=同步停车场车辆
+DebugMenu.PlayerRecovery=玩家 / 恢复
+DebugMenu.PlayerCharacterReset=重置角色
+DebugMenu.UI=界面
+DebugMenu.Back=返回
+DebugMenu.NoActions=此区域尚未添加操作。
+
+[Czech]
+Warehouse.MoveAllToWarehouse=PŘESUNOUT VŠE DO SKLADU
+Warehouse.MoveAllToInventory=PŘESUNOUT VŠE DO INVENTÁŘE
+
+Invite.Title=Pozvat přítele ze Steamu
+Invite.NoFriends=Nebyli nalezeni žádní online přátelé na Steamu.
+Invite.Page=Strana {0}/{1}
+Invite.Previous=Předchozí
+Invite.Next=Další
+Invite.Back=Zpět
+Invite.PlayingCMS21=Právě hraje CMS21
+Invite.PlayedCMS21=Hrál CMS21
+Invite.Online=Online
+Invite.Busy=Zaneprázdněn
+Invite.Away=Pryč
+Invite.Invite=Pozvat
+
+ModSettings.Save=Uložit
+ModSettings.Back=Zpět
+ModSettings.RestartNotice=Změny se zapíší do Setting.cfg. Pro použití je nutný restart.
+ModSettings.Saved=Uloženo. Pro použití je nutný restart.
+ModSettings.SaveFailed=Uložení selhalo. Chybu najdete v logu.
+ModSettings.Changed=Změněno: {0}.{1} = {2}
+ModSettings.BoolTrue=Zapnuto
+ModSettings.BoolFalse=Vypnuto
+FixForTogether.Section.Debug=Ladění
+FixForTogether.Debug.Enabled=Povoleno
+FixForTogether.Section.Autosave=Automatické ukládání
+FixForTogether.Section.Minigames=Minihry
+FixForTogether.Autosave.Enabled=Povoleno
+FixForTogether.Autosave.IntervalMinutes=Interval v minutách
+FixForTogether.Minigames.Skip=Přeskočit
+IngameLobby.Difficulty=OBTÍŽNOST: {0}
+IngameLobby.Difficulty.Normal=NORMÁLNÍ
+IngameLobby.Difficulty.Expert=EXPERT
+IngameLobby.Difficulty.Creative=KREATIVNÍ
+
+DebugMenu.Button=MP Nabídka ladění
+DebugMenu.Title=MP Nabídka ladění
+DebugMenu.Inventory=Inventář
+DebugMenu.InventorySync=Synchronizovat inventář
+DebugMenu.Cars=Auta
+DebugMenu.CarSync=Synchronizovat auta v garáži
+DebugMenu.ParkingSync=Synchronizovat auta na parkovišti
+DebugMenu.PlayerRecovery=Hráč / Obnovení
+DebugMenu.PlayerCharacterReset=Resetovat postavu
+DebugMenu.UI=Uživatelské rozhraní
+DebugMenu.Back=Zpět
+DebugMenu.NoActions=Pro tuto část zatím nejsou přidány žádné akce.
+
+[English]
+Warehouse.MoveAllToWarehouse=MOVE ALL TO WAREHOUSE
+Warehouse.MoveAllToInventory=MOVE ALL TO INVENTORY
+
+Invite.Title=Invite Steam Friend
+Invite.NoFriends=No online Steam friends found.
+Invite.Page=Page {0}/{1}
+Invite.Previous=Previous
+Invite.Next=Next
+Invite.Back=Back
+Invite.PlayingCMS21=Playing CMS21
+Invite.PlayedCMS21=Played CMS21
+Invite.Online=Online
+Invite.Busy=Busy
+Invite.Away=Away
+Invite.Invite=Invite
+
+ModSettings.Save=Save
+ModSettings.Back=Back
+ModSettings.RestartNotice=Changes are written to Setting.cfg. Restart required to apply.
+ModSettings.Saved=Saved. Restart required to apply.
+ModSettings.SaveFailed=Save failed. See log for error.
+ModSettings.Changed=Changed: {0}.{1} = {2}
+ModSettings.BoolTrue=On
+ModSettings.BoolFalse=Off
+FixForTogether.Section.Debug=Debug
+FixForTogether.Debug.Enabled=Enabled
+FixForTogether.Section.Autosave=Autosave
+FixForTogether.Section.Minigames=Minigames
+FixForTogether.Autosave.Enabled=Enabled
+FixForTogether.Autosave.IntervalMinutes=Interval Minutes
+FixForTogether.Minigames.Skip=Skip
+IngameLobby.Difficulty=DIFFICULTY: {0}
+IngameLobby.Difficulty.Normal=NORMAL
+IngameLobby.Difficulty.Expert=EXPERT
+IngameLobby.Difficulty.Creative=CREATIVE
+
+DebugMenu.Button=MP Debug Menu
+DebugMenu.Title=MP Debug Menu
+DebugMenu.Inventory=Inventory
+DebugMenu.InventorySync=Align Inventory
+DebugMenu.Cars=Cars
+DebugMenu.CarSync=Align Garage Cars
+DebugMenu.ParkingSync=Align Parking Cars
+DebugMenu.PlayerRecovery=Player / Recovery
+DebugMenu.PlayerCharacterReset=Reset Character
+DebugMenu.UI=UI
+DebugMenu.Back=Back
+DebugMenu.NoActions=No actions have been added to this section yet.
+
+[French]
+Warehouse.MoveAllToWarehouse=TOUT DÉPLACER VERS L’ENTREPÔT
+Warehouse.MoveAllToInventory=TOUT DÉPLACER VERS L’INVENTAIRE
+
+Invite.Title=Inviter un ami Steam
+Invite.NoFriends=Aucun ami Steam en ligne trouvé.
+Invite.Page=Page {0}/{1}
+Invite.Previous=Précédent
+Invite.Next=Suivant
+Invite.Back=Retour
+Invite.PlayingCMS21=Joue à CMS21
+Invite.PlayedCMS21=A joué à CMS21
+Invite.Online=En ligne
+Invite.Busy=Occupé
+Invite.Away=Absent
+Invite.Invite=Inviter
+
+ModSettings.Save=Enregistrer
+ModSettings.Back=Retour
+ModSettings.RestartNotice=Les modifications sont écrites dans Setting.cfg. Redémarrage requis pour les appliquer.
+ModSettings.Saved=Enregistré. Redémarrage requis pour appliquer.
+ModSettings.SaveFailed=Échec de l’enregistrement. Consultez le journal.
+ModSettings.Changed=Modifié : {0}.{1} = {2}
+ModSettings.BoolTrue=Activé
+ModSettings.BoolFalse=Désactivé
+FixForTogether.Section.Debug=Débogage
+FixForTogether.Debug.Enabled=Activé
+FixForTogether.Section.Autosave=Sauvegarde auto
+FixForTogether.Section.Minigames=Mini-jeux
+FixForTogether.Autosave.Enabled=Activé
+FixForTogether.Autosave.IntervalMinutes=Intervalle en minutes
+FixForTogether.Minigames.Skip=Ignorer
+IngameLobby.Difficulty=DIFFICULTÉ : {0}
+IngameLobby.Difficulty.Normal=NORMAL
+IngameLobby.Difficulty.Expert=EXPERT
+IngameLobby.Difficulty.Creative=CRÉATIF
+
+DebugMenu.Button=MP Menu de débogage
+DebugMenu.Title=MP Menu de débogage
+DebugMenu.Inventory=Inventaire
+DebugMenu.InventorySync=Synchroniser l’inventaire
+DebugMenu.Cars=Voitures
+DebugMenu.CarSync=Synchroniser les voitures du garage
+DebugMenu.ParkingSync=Synchroniser les voitures du parking
+DebugMenu.PlayerRecovery=Joueur / Récupération
+DebugMenu.PlayerCharacterReset=Réinitialiser le personnage
+DebugMenu.UI=Interface
+DebugMenu.Back=Retour
+DebugMenu.NoActions=Aucune action n’a encore été ajoutée à cette section.
+
+[German]
+Warehouse.MoveAllToWarehouse=ALLES INS LAGER
+Warehouse.MoveAllToInventory=ALLES INS INVENTAR
+
+Invite.Title=Steam-Freund einladen
+Invite.NoFriends=Keine Steam-Freunde online gefunden.
+Invite.Page=Seite {0}/{1}
+Invite.Previous=Zurück
+Invite.Next=Weiter
+Invite.Back=Zurück
+Invite.PlayingCMS21=Spielt CMS21
+Invite.PlayedCMS21=Hat CMS21 gespielt
+Invite.Online=Online
+Invite.Busy=Beschäftigt
+Invite.Away=Abwesend
+Invite.Invite=Einladen
+
+ModSettings.Save=Speichern
+ModSettings.Back=Zurück
+ModSettings.RestartNotice=Änderungen werden in Setting.cfg gespeichert. Neustart zum Anwenden erforderlich.
+ModSettings.Saved=Gespeichert. Neustart zum Anwenden erforderlich.
+ModSettings.SaveFailed=Speichern fehlgeschlagen. Fehler im Log prüfen.
+ModSettings.Changed=Geändert: {0}.{1} = {2}
+ModSettings.BoolTrue=Ein
+ModSettings.BoolFalse=Aus
+FixForTogether.Section.Debug=Debug
+FixForTogether.Debug.Enabled=Aktiviert
+FixForTogether.Section.Autosave=Automatisches Speichern
+FixForTogether.Section.Minigames=Minispiele
+FixForTogether.Autosave.Enabled=Aktiviert
+FixForTogether.Autosave.IntervalMinutes=Intervall in Minuten
+FixForTogether.Minigames.Skip=Überspringen
+IngameLobby.Difficulty=SCHWIERIGKEIT: {0}
+IngameLobby.Difficulty.Normal=NORMAL
+IngameLobby.Difficulty.Expert=EXPERTE
+IngameLobby.Difficulty.Creative=KREATIV
+
+DebugMenu.Button=MP Debug-Menü
+DebugMenu.Title=MP Debug-Menü
+DebugMenu.Inventory=Inventar
+DebugMenu.InventorySync=Inventar angleichen
+DebugMenu.Cars=Autos
+DebugMenu.CarSync=Autos angleichen
+DebugMenu.ParkingSync=Parking angleichen
+DebugMenu.PlayerRecovery=Spieler / Recovery
+DebugMenu.PlayerCharacterReset=Charakter zurücksetzen
+DebugMenu.UI=UI
+DebugMenu.Back=Zurück
+DebugMenu.NoActions=Für diesen Bereich sind noch keine Aktionen hinzugefügt.
+
+[Hungarian]
+Warehouse.MoveAllToWarehouse=MINDENT A RAKTÁRBA
+Warehouse.MoveAllToInventory=MINDENT A KÉSZLETBE
+
+Invite.Title=Steam-barát meghívása
+Invite.NoFriends=Nem található online Steam-barát.
+Invite.Page={0}/{1}. oldal
+Invite.Previous=Előző
+Invite.Next=Következő
+Invite.Back=Vissza
+Invite.PlayingCMS21=CMS21-et játszik
+Invite.PlayedCMS21=Játszott a CMS21-gyel
+Invite.Online=Online
+Invite.Busy=Elfoglalt
+Invite.Away=Távol
+Invite.Invite=Meghívás
+
+ModSettings.Save=Mentés
+ModSettings.Back=Vissza
+ModSettings.RestartNotice=A módosítások a Setting.cfg fájlba kerülnek. Az alkalmazáshoz újraindítás szükséges.
+ModSettings.Saved=Mentve. Az alkalmazáshoz újraindítás szükséges.
+ModSettings.SaveFailed=A mentés sikertelen. Nézd meg a naplót.
+ModSettings.Changed=Módosítva: {0}.{1} = {2}
+ModSettings.BoolTrue=Be
+ModSettings.BoolFalse=Ki
+FixForTogether.Section.Debug=Hibakeresés
+FixForTogether.Debug.Enabled=Engedélyezve
+FixForTogether.Section.Autosave=Automatikus mentés
+FixForTogether.Section.Minigames=Minijátékok
+FixForTogether.Autosave.Enabled=Engedélyezve
+FixForTogether.Autosave.IntervalMinutes=Időköz percben
+FixForTogether.Minigames.Skip=Kihagyás
+IngameLobby.Difficulty=NEHÉZSÉG: {0}
+IngameLobby.Difficulty.Normal=NORMÁL
+IngameLobby.Difficulty.Expert=SZAKÉRTŐ
+IngameLobby.Difficulty.Creative=KREATÍV
+
+DebugMenu.Button=MP Hibakeresési menü
+DebugMenu.Title=MP Hibakeresési menü
+DebugMenu.Inventory=Készlet
+DebugMenu.InventorySync=Készlet szinkronizálása
+DebugMenu.Cars=Autók
+DebugMenu.CarSync=Garázsautók szinkronizálása
+DebugMenu.ParkingSync=Parkolóautók szinkronizálása
+DebugMenu.PlayerRecovery=Játékos / Helyreállítás
+DebugMenu.PlayerCharacterReset=Karakter visszaállítása
+DebugMenu.UI=Felület
+DebugMenu.Back=Vissza
+DebugMenu.NoActions=Ehhez a részhez még nem lettek műveletek hozzáadva.
+
+[Italian]
+Warehouse.MoveAllToWarehouse=SPOSTA TUTTO NEL MAGAZZINO
+Warehouse.MoveAllToInventory=SPOSTA TUTTO NELL’INVENTARIO
+
+Invite.Title=Invita amico Steam
+Invite.NoFriends=Nessun amico Steam online trovato.
+Invite.Page=Pagina {0}/{1}
+Invite.Previous=Precedente
+Invite.Next=Successivo
+Invite.Back=Indietro
+Invite.PlayingCMS21=Sta giocando a CMS21
+Invite.PlayedCMS21=Ha giocato a CMS21
+Invite.Online=Online
+Invite.Busy=Occupato
+Invite.Away=Assente
+Invite.Invite=Invita
+
+ModSettings.Save=Salva
+ModSettings.Back=Indietro
+ModSettings.RestartNotice=Le modifiche vengono scritte in Setting.cfg. Riavvio necessario per applicarle.
+ModSettings.Saved=Salvato. Riavvio necessario per applicare.
+ModSettings.SaveFailed=Salvataggio non riuscito. Controlla il log.
+ModSettings.Changed=Modificato: {0}.{1} = {2}
+ModSettings.BoolTrue=Attivo
+ModSettings.BoolFalse=Disattivo
+FixForTogether.Section.Debug=Debug
+FixForTogether.Debug.Enabled=Attivato
+FixForTogether.Section.Autosave=Salvataggio automatico
+FixForTogether.Section.Minigames=Minigiochi
+FixForTogether.Autosave.Enabled=Attivato
+FixForTogether.Autosave.IntervalMinutes=Intervallo in minuti
+FixForTogether.Minigames.Skip=Salta
+IngameLobby.Difficulty=DIFFICOLTÀ: {0}
+IngameLobby.Difficulty.Normal=NORMALE
+IngameLobby.Difficulty.Expert=ESPERTO
+IngameLobby.Difficulty.Creative=CREATIVA
+
+DebugMenu.Button=MP Menu debug
+DebugMenu.Title=MP Menu debug
+DebugMenu.Inventory=Inventario
+DebugMenu.InventorySync=Sincronizza inventario
+DebugMenu.Cars=Auto
+DebugMenu.CarSync=Sincronizza auto del garage
+DebugMenu.ParkingSync=Sincronizza auto del parcheggio
+DebugMenu.PlayerRecovery=Giocatore / Ripristino
+DebugMenu.PlayerCharacterReset=Reimposta personaggio
+DebugMenu.UI=Interfaccia
+DebugMenu.Back=Indietro
+DebugMenu.NoActions=Non sono ancora state aggiunte azioni a questa sezione.
+
+[Japanese]
+Warehouse.MoveAllToWarehouse=すべて倉庫へ移動
+Warehouse.MoveAllToInventory=すべてインベントリへ移動
+
+Invite.Title=Steamフレンドを招待
+Invite.NoFriends=オンラインのSteamフレンドが見つかりません。
+Invite.Page=ページ {0}/{1}
+Invite.Previous=前へ
+Invite.Next=次へ
+Invite.Back=戻る
+Invite.PlayingCMS21=CMS21をプレイ中
+Invite.PlayedCMS21=CMS21をプレイ済み
+Invite.Online=オンライン
+Invite.Busy=取り込み中
+Invite.Away=離席中
+Invite.Invite=招待
+
+ModSettings.Save=保存
+ModSettings.Back=戻る
+ModSettings.RestartNotice=変更は Setting.cfg に保存されます。適用には再起動が必要です。
+ModSettings.Saved=保存しました。適用には再起動が必要です。
+ModSettings.SaveFailed=保存に失敗しました。ログを確認してください。
+ModSettings.Changed=変更: {0}.{1} = {2}
+ModSettings.BoolTrue=オン
+ModSettings.BoolFalse=オフ
+FixForTogether.Section.Debug=デバッグ
+FixForTogether.Debug.Enabled=有効
+FixForTogether.Section.Autosave=自動保存
+FixForTogether.Section.Minigames=ミニゲーム
+FixForTogether.Autosave.Enabled=有効
+FixForTogether.Autosave.IntervalMinutes=間隔（分）
+FixForTogether.Minigames.Skip=スキップ
+IngameLobby.Difficulty=難易度: {0}
+IngameLobby.Difficulty.Normal=ノーマル
+IngameLobby.Difficulty.Expert=エキスパート
+IngameLobby.Difficulty.Creative=クリエイティブ
+
+DebugMenu.Button=MP デバッグメニュー
+DebugMenu.Title=MP デバッグメニュー
+DebugMenu.Inventory=インベントリ
+DebugMenu.InventorySync=インベントリを同期
+DebugMenu.Cars=車両
+DebugMenu.CarSync=ガレージ車両を同期
+DebugMenu.ParkingSync=駐車場の車両を同期
+DebugMenu.PlayerRecovery=プレイヤー / 復旧
+DebugMenu.PlayerCharacterReset=キャラクターをリセット
+DebugMenu.UI=UI
+DebugMenu.Back=戻る
+DebugMenu.NoActions=このセクションにはまだ操作が追加されていません。
+
+[Korean]
+Warehouse.MoveAllToWarehouse=모두 창고로 이동
+Warehouse.MoveAllToInventory=모두 인벤토리로 이동
+
+Invite.Title=Steam 친구 초대
+Invite.NoFriends=온라인 Steam 친구를 찾을 수 없습니다.
+Invite.Page=페이지 {0}/{1}
+Invite.Previous=이전
+Invite.Next=다음
+Invite.Back=뒤로
+Invite.PlayingCMS21=CMS21 플레이 중
+Invite.PlayedCMS21=CMS21 플레이함
+Invite.Online=온라인
+Invite.Busy=바쁨
+Invite.Away=자리 비움
+Invite.Invite=초대
+
+ModSettings.Save=저장
+ModSettings.Back=뒤로
+ModSettings.RestartNotice=변경 사항은 Setting.cfg에 저장됩니다. 적용하려면 재시작이 필요합니다.
+ModSettings.Saved=저장되었습니다. 적용하려면 재시작이 필요합니다.
+ModSettings.SaveFailed=저장에 실패했습니다. 로그에서 오류를 확인하세요.
+ModSettings.Changed=변경됨: {0}.{1} = {2}
+ModSettings.BoolTrue=켜짐
+ModSettings.BoolFalse=꺼짐
+FixForTogether.Section.Debug=디버그
+FixForTogether.Debug.Enabled=활성화
+FixForTogether.Section.Autosave=자동 저장
+FixForTogether.Section.Minigames=미니게임
+FixForTogether.Autosave.Enabled=활성화
+FixForTogether.Autosave.IntervalMinutes=간격(분)
+FixForTogether.Minigames.Skip=건너뛰기
+IngameLobby.Difficulty=난이도: {0}
+IngameLobby.Difficulty.Normal=일반
+IngameLobby.Difficulty.Expert=전문가
+IngameLobby.Difficulty.Creative=창의
+
+DebugMenu.Button=MP 디버그 메뉴
+DebugMenu.Title=MP 디버그 메뉴
+DebugMenu.Inventory=인벤토리
+DebugMenu.InventorySync=인벤토리 동기화
+DebugMenu.Cars=차량
+DebugMenu.CarSync=차고 차량 동기화
+DebugMenu.ParkingSync=주차장 차량 동기화
+DebugMenu.PlayerRecovery=플레이어 / 복구
+DebugMenu.PlayerCharacterReset=캐릭터 초기화
+DebugMenu.UI=UI
+DebugMenu.Back=뒤로
+DebugMenu.NoActions=이 섹션에는 아직 작업이 추가되지 않았습니다.
+
+[Polish]
+Warehouse.MoveAllToWarehouse=PRZENIEŚ WSZYSTKO DO MAGAZYNU
+Warehouse.MoveAllToInventory=PRZENIEŚ WSZYSTKO DO EKWIPUNKU
+
+Invite.Title=Zaproś znajomego Steam
+Invite.NoFriends=Nie znaleziono znajomych Steam online.
+Invite.Page=Strona {0}/{1}
+Invite.Previous=Poprzednia
+Invite.Next=Następna
+Invite.Back=Wstecz
+Invite.PlayingCMS21=Gra w CMS21
+Invite.PlayedCMS21=Grał w CMS21
+Invite.Online=Online
+Invite.Busy=Zajęty
+Invite.Away=Nieobecny
+Invite.Invite=Zaproś
+
+ModSettings.Save=Zapisz
+ModSettings.Back=Wstecz
+ModSettings.RestartNotice=Zmiany są zapisywane do Setting.cfg. Wymagany restart, aby je zastosować.
+ModSettings.Saved=Zapisano. Wymagany restart, aby zastosować.
+ModSettings.SaveFailed=Nie udało się zapisać. Sprawdź błąd w logu.
+ModSettings.Changed=Zmieniono: {0}.{1} = {2}
+ModSettings.BoolTrue=Wł.
+ModSettings.BoolFalse=Wył.
+FixForTogether.Section.Debug=Debugowanie
+FixForTogether.Debug.Enabled=Włączone
+FixForTogether.Section.Autosave=Autozapis
+FixForTogether.Section.Minigames=Minigry
+FixForTogether.Autosave.Enabled=Włączone
+FixForTogether.Autosave.IntervalMinutes=Interwał w minutach
+FixForTogether.Minigames.Skip=Pomiń
+IngameLobby.Difficulty=POZIOM TRUDNOŚCI: {0}
+IngameLobby.Difficulty.Normal=NORMALNY
+IngameLobby.Difficulty.Expert=EKSPERT
+IngameLobby.Difficulty.Creative=KREATYWNY
+
+DebugMenu.Button=MP Menu debugowania
+DebugMenu.Title=MP Menu debugowania
+DebugMenu.Inventory=Ekwipunek
+DebugMenu.InventorySync=Synchronizuj ekwipunek
+DebugMenu.Cars=Samochody
+DebugMenu.CarSync=Synchronizuj auta w garażu
+DebugMenu.ParkingSync=Synchronizuj auta na parkingu
+DebugMenu.PlayerRecovery=Gracz / Odzyskiwanie
+DebugMenu.PlayerCharacterReset=Zresetuj postać
+DebugMenu.UI=Interfejs
+DebugMenu.Back=Wstecz
+DebugMenu.NoActions=Do tej sekcji nie dodano jeszcze żadnych działań.
+
+[Portuguese]
+Warehouse.MoveAllToWarehouse=MOVER TUDO PARA O ARMAZÉM
+Warehouse.MoveAllToInventory=MOVER TUDO PARA O INVENTÁRIO
+
+Invite.Title=Convidar amigo da Steam
+Invite.NoFriends=Nenhum amigo da Steam online encontrado.
+Invite.Page=Página {0}/{1}
+Invite.Previous=Anterior
+Invite.Next=Seguinte
+Invite.Back=Voltar
+Invite.PlayingCMS21=A jogar CMS21
+Invite.PlayedCMS21=Jogou CMS21
+Invite.Online=Online
+Invite.Busy=Ocupado
+Invite.Away=Ausente
+Invite.Invite=Convidar
+
+ModSettings.Save=Guardar
+ModSettings.Back=Voltar
+ModSettings.RestartNotice=As alterações são gravadas em Setting.cfg. É necessário reiniciar para aplicar.
+ModSettings.Saved=Guardado. É necessário reiniciar para aplicar.
+ModSettings.SaveFailed=Falha ao guardar. Consulte o registo para ver o erro.
+ModSettings.Changed=Alterado: {0}.{1} = {2}
+ModSettings.BoolTrue=Ligado
+ModSettings.BoolFalse=Desligado
+FixForTogether.Section.Debug=Depuração
+FixForTogether.Debug.Enabled=Ativado
+FixForTogether.Section.Autosave=Gravação automática
+FixForTogether.Section.Minigames=Minijogos
+FixForTogether.Autosave.Enabled=Ativado
+FixForTogether.Autosave.IntervalMinutes=Intervalo em minutos
+FixForTogether.Minigames.Skip=Ignorar
+IngameLobby.Difficulty=DIFICULDADE: {0}
+IngameLobby.Difficulty.Normal=NORMAL
+IngameLobby.Difficulty.Expert=ESPECIALISTA
+IngameLobby.Difficulty.Creative=CRIATIVO
+
+DebugMenu.Button=MP Menu de depuração
+DebugMenu.Title=MP Menu de depuração
+DebugMenu.Inventory=Inventário
+DebugMenu.InventorySync=Sincronizar inventário
+DebugMenu.Cars=Carros
+DebugMenu.CarSync=Sincronizar carros da garagem
+DebugMenu.ParkingSync=Sincronizar carros do estacionamento
+DebugMenu.PlayerRecovery=Jogador / Recuperação
+DebugMenu.PlayerCharacterReset=Repor personagem
+DebugMenu.UI=Interface
+DebugMenu.Back=Voltar
+DebugMenu.NoActions=Ainda não foram adicionadas ações a esta secção.
+
+[PortugueseBR]
+Warehouse.MoveAllToWarehouse=MOVER TUDO PARA O ARMAZÉM
+Warehouse.MoveAllToInventory=MOVER TUDO PARA O INVENTÁRIO
+
+Invite.Title=Convidar amigo da Steam
+Invite.NoFriends=Nenhum amigo da Steam online encontrado.
+Invite.Page=Página {0}/{1}
+Invite.Previous=Anterior
+Invite.Next=Próxima
+Invite.Back=Voltar
+Invite.PlayingCMS21=Jogando CMS21
+Invite.PlayedCMS21=Jogou CMS21
+Invite.Online=Online
+Invite.Busy=Ocupado
+Invite.Away=Ausente
+Invite.Invite=Convidar
+
+ModSettings.Save=Salvar
+ModSettings.Back=Voltar
+ModSettings.RestartNotice=As alterações são gravadas em Setting.cfg. É necessário reiniciar para aplicar.
+ModSettings.Saved=Salvo. É necessário reiniciar para aplicar.
+ModSettings.SaveFailed=Falha ao salvar. Veja o erro no log.
+ModSettings.Changed=Alterado: {0}.{1} = {2}
+ModSettings.BoolTrue=Ligado
+ModSettings.BoolFalse=Desligado
+FixForTogether.Section.Debug=Depuração
+FixForTogether.Debug.Enabled=Ativado
+FixForTogether.Section.Autosave=Salvamento automático
+FixForTogether.Section.Minigames=Minijogos
+FixForTogether.Autosave.Enabled=Ativado
+FixForTogether.Autosave.IntervalMinutes=Intervalo em minutos
+FixForTogether.Minigames.Skip=Pular
+IngameLobby.Difficulty=DIFICULDADE: {0}
+IngameLobby.Difficulty.Normal=NORMAL
+IngameLobby.Difficulty.Expert=ESPECIALISTA
+IngameLobby.Difficulty.Creative=CRIATIVO
+
+DebugMenu.Button=MP Menu de depuração
+DebugMenu.Title=MP Menu de depuração
+DebugMenu.Inventory=Inventário
+DebugMenu.InventorySync=Sincronizar inventário
+DebugMenu.Cars=Carros
+DebugMenu.CarSync=Sincronizar carros da garagem
+DebugMenu.ParkingSync=Sincronizar carros do estacionamento
+DebugMenu.PlayerRecovery=Jogador / Recuperação
+DebugMenu.PlayerCharacterReset=Redefinir personagem
+DebugMenu.UI=Interface
+DebugMenu.Back=Voltar
+DebugMenu.NoActions=Ainda não foram adicionadas ações a esta seção.
+
+[Romanian]
+Warehouse.MoveAllToWarehouse=MUTĂ TOTUL ÎN DEPOZIT
+Warehouse.MoveAllToInventory=MUTĂ TOTUL ÎN INVENTAR
+
+Invite.Title=Invită un prieten Steam
+Invite.NoFriends=Nu s-au găsit prieteni Steam online.
+Invite.Page=Pagina {0}/{1}
+Invite.Previous=Anterior
+Invite.Next=Următor
+Invite.Back=Înapoi
+Invite.PlayingCMS21=Joacă CMS21
+Invite.PlayedCMS21=A jucat CMS21
+Invite.Online=Online
+Invite.Busy=Ocupat
+Invite.Away=Absent
+Invite.Invite=Invită
+
+ModSettings.Save=Salvează
+ModSettings.Back=Înapoi
+ModSettings.RestartNotice=Modificările sunt scrise în Setting.cfg. Este necesară repornirea pentru aplicare.
+ModSettings.Saved=Salvat. Este necesară repornirea pentru aplicare.
+ModSettings.SaveFailed=Salvarea a eșuat. Verifică jurnalul pentru eroare.
+ModSettings.Changed=Modificat: {0}.{1} = {2}
+ModSettings.BoolTrue=Pornit
+ModSettings.BoolFalse=Oprit
+FixForTogether.Section.Debug=Depanare
+FixForTogether.Debug.Enabled=Activat
+FixForTogether.Section.Autosave=Salvare automată
+FixForTogether.Section.Minigames=Minijocuri
+FixForTogether.Autosave.Enabled=Activat
+FixForTogether.Autosave.IntervalMinutes=Interval în minute
+FixForTogether.Minigames.Skip=Sari peste
+IngameLobby.Difficulty=DIFICULTATE: {0}
+IngameLobby.Difficulty.Normal=NORMAL
+IngameLobby.Difficulty.Expert=EXPERT
+IngameLobby.Difficulty.Creative=CREATIV
+
+DebugMenu.Button=MP Meniu de depanare
+DebugMenu.Title=MP Meniu de depanare
+DebugMenu.Inventory=Inventar
+DebugMenu.InventorySync=Sincronizează inventarul
+DebugMenu.Cars=Mașini
+DebugMenu.CarSync=Sincronizează mașinile din garaj
+DebugMenu.ParkingSync=Sincronizează mașinile din parcare
+DebugMenu.PlayerRecovery=Jucător / Recuperare
+DebugMenu.PlayerCharacterReset=Resetează personajul
+DebugMenu.UI=Interfață
+DebugMenu.Back=Înapoi
+DebugMenu.NoActions=Nu au fost adăugate încă acțiuni în această secțiune.
+
+[Russian]
+Warehouse.MoveAllToWarehouse=ПЕРЕМЕСТИТЬ ВСЁ НА СКЛАД
+Warehouse.MoveAllToInventory=ПЕРЕМЕСТИТЬ ВСЁ В ИНВЕНТАРЬ
+
+Invite.Title=Пригласить друга Steam
+Invite.NoFriends=Друзья Steam в сети не найдены.
+Invite.Page=Страница {0}/{1}
+Invite.Previous=Назад
+Invite.Next=Далее
+Invite.Back=Назад
+Invite.PlayingCMS21=Играет в CMS21
+Invite.PlayedCMS21=Играл в CMS21
+Invite.Online=В сети
+Invite.Busy=Занят
+Invite.Away=Отошёл
+Invite.Invite=Пригласить
+
+ModSettings.Save=Сохранить
+ModSettings.Back=Назад
+ModSettings.RestartNotice=Изменения записываются в Setting.cfg. Для применения требуется перезапуск.
+ModSettings.Saved=Сохранено. Для применения требуется перезапуск.
+ModSettings.SaveFailed=Не удалось сохранить. Ошибка указана в журнале.
+ModSettings.Changed=Изменено: {0}.{1} = {2}
+ModSettings.BoolTrue=Вкл.
+ModSettings.BoolFalse=Выкл.
+FixForTogether.Section.Debug=Отладка
+FixForTogether.Debug.Enabled=Включено
+FixForTogether.Section.Autosave=Автосохранение
+FixForTogether.Section.Minigames=Мини-игры
+FixForTogether.Autosave.Enabled=Включено
+FixForTogether.Autosave.IntervalMinutes=Интервал в минутах
+FixForTogether.Minigames.Skip=Пропустить
+IngameLobby.Difficulty=СЛОЖНОСТЬ: {0}
+IngameLobby.Difficulty.Normal=ОБЫЧНАЯ
+IngameLobby.Difficulty.Expert=ЭКСПЕРТ
+IngameLobby.Difficulty.Creative=ТВОРЧЕСКАЯ
+
+DebugMenu.Button=MP Меню отладки
+DebugMenu.Title=MP Меню отладки
+DebugMenu.Inventory=Инвентарь
+DebugMenu.InventorySync=Синхронизировать инвентарь
+DebugMenu.Cars=Автомобили
+DebugMenu.CarSync=Синхронизировать машины в гараже
+DebugMenu.ParkingSync=Синхронизировать машины на парковке
+DebugMenu.PlayerRecovery=Игрок / Восстановление
+DebugMenu.PlayerCharacterReset=Сбросить персонажа
+DebugMenu.UI=Интерфейс
+DebugMenu.Back=Назад
+DebugMenu.NoActions=Для этого раздела пока не добавлены действия.
+
+[Spanish]
+Warehouse.MoveAllToWarehouse=MOVER TODO AL ALMACÉN
+Warehouse.MoveAllToInventory=MOVER TODO AL INVENTARIO
+
+Invite.Title=Invitar amigo de Steam
+Invite.NoFriends=No se encontraron amigos de Steam en línea.
+Invite.Page=Página {0}/{1}
+Invite.Previous=Anterior
+Invite.Next=Siguiente
+Invite.Back=Volver
+Invite.PlayingCMS21=Jugando a CMS21
+Invite.PlayedCMS21=Ha jugado CMS21
+Invite.Online=En línea
+Invite.Busy=Ocupado
+Invite.Away=Ausente
+Invite.Invite=Invitar
+
+ModSettings.Save=Guardar
+ModSettings.Back=Volver
+ModSettings.RestartNotice=Los cambios se escriben en Setting.cfg. Es necesario reiniciar para aplicarlos.
+ModSettings.Saved=Guardado. Es necesario reiniciar para aplicar.
+ModSettings.SaveFailed=Error al guardar. Consulta el registro.
+ModSettings.Changed=Cambiado: {0}.{1} = {2}
+ModSettings.BoolTrue=Activado
+ModSettings.BoolFalse=Desactivado
+FixForTogether.Section.Debug=Depuración
+FixForTogether.Debug.Enabled=Activado
+FixForTogether.Section.Autosave=Guardado automático
+FixForTogether.Section.Minigames=Minijuegos
+FixForTogether.Autosave.Enabled=Activado
+FixForTogether.Autosave.IntervalMinutes=Intervalo en minutos
+FixForTogether.Minigames.Skip=Omitir
+IngameLobby.Difficulty=DIFICULTAD: {0}
+IngameLobby.Difficulty.Normal=NORMAL
+IngameLobby.Difficulty.Expert=EXPERTO
+IngameLobby.Difficulty.Creative=CREATIVO
+
+DebugMenu.Button=MP Menú de depuración
+DebugMenu.Title=MP Menú de depuración
+DebugMenu.Inventory=Inventario
+DebugMenu.InventorySync=Sincronizar inventario
+DebugMenu.Cars=Coches
+DebugMenu.CarSync=Sincronizar coches del garaje
+DebugMenu.ParkingSync=Sincronizar coches del aparcamiento
+DebugMenu.PlayerRecovery=Jugador / Recuperación
+DebugMenu.PlayerCharacterReset=Restablecer personaje
+DebugMenu.UI=Interfaz
+DebugMenu.Back=Volver
+DebugMenu.NoActions=Aún no se han añadido acciones a esta sección.
+
+[Turkish]
+Warehouse.MoveAllToWarehouse=TÜMÜNÜ DEPOYA TAŞI
+Warehouse.MoveAllToInventory=TÜMÜNÜ ENVANTERE TAŞI
+
+Invite.Title=Steam arkadaşını davet et
+Invite.NoFriends=Çevrimiçi Steam arkadaşı bulunamadı.
+Invite.Page=Sayfa {0}/{1}
+Invite.Previous=Önceki
+Invite.Next=Sonraki
+Invite.Back=Geri
+Invite.PlayingCMS21=CMS21 oynuyor
+Invite.PlayedCMS21=CMS21 oynadı
+Invite.Online=Çevrimiçi
+Invite.Busy=Meşgul
+Invite.Away=Uzakta
+Invite.Invite=Davet Et
+
+ModSettings.Save=Kaydet
+ModSettings.Back=Geri
+ModSettings.RestartNotice=Değişiklikler Setting.cfg dosyasına yazılır. Uygulamak için yeniden başlatma gerekir.
+ModSettings.Saved=Kaydedildi. Uygulamak için yeniden başlatma gerekir.
+ModSettings.SaveFailed=Kaydetme başarısız. Hata için günlüğü kontrol edin.
+ModSettings.Changed=Değiştirildi: {0}.{1} = {2}
+ModSettings.BoolTrue=Açık
+ModSettings.BoolFalse=Kapalı
+FixForTogether.Section.Debug=Hata ayıklama
+FixForTogether.Debug.Enabled=Etkin
+FixForTogether.Section.Autosave=Otomatik kaydetme
+FixForTogether.Section.Minigames=Mini oyunlar
+FixForTogether.Autosave.Enabled=Etkin
+FixForTogether.Autosave.IntervalMinutes=Dakika aralığı
+FixForTogether.Minigames.Skip=Atla
+IngameLobby.Difficulty=ZORLUK: {0}
+IngameLobby.Difficulty.Normal=NORMAL
+IngameLobby.Difficulty.Expert=UZMAN
+IngameLobby.Difficulty.Creative=YARATICI
+
+DebugMenu.Button=MP Hata ayıklama menüsü
+DebugMenu.Title=MP Hata ayıklama menüsü
+DebugMenu.Inventory=Envanter
+DebugMenu.InventorySync=Envanteri eşitle
+DebugMenu.Cars=Arabalar
+DebugMenu.CarSync=Garaj araçlarını eşitle
+DebugMenu.ParkingSync=Park araçlarını eşitle
+DebugMenu.PlayerRecovery=Oyuncu / Kurtarma
+DebugMenu.PlayerCharacterReset=Karakteri sıfırla
+DebugMenu.UI=Arayüz
+DebugMenu.Back=Geri
+DebugMenu.NoActions=Bu bölüme henüz herhangi bir işlem eklenmedi.
