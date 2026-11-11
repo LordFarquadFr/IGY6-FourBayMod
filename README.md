@@ -1,168 +1,192 @@
-# IGY6 GAMING - CMS21 MULTIPLAYER MOD PACK
+# IGY6 Gaming – CMS21 Multiplayer Mod Pack
 
-**Version 1.2.1** — Correct maps, new `IGY6FourBayMod.dll`, and new hotkey customization.
+**Version 1.2.1** · Car Mechanic Simulator 2021 · MelonLoader 0.5.7
 
----
+Two extra working lifts outside your garage (**Bay C** and **Bay D**), multiplayer sync fixes for CMS21-Together, an in-game building and prop editor, and preconfigured IGY6 settings.
 
-## 📋 REQUIREMENTS (INSTALL FIRST)
-
-1. **MelonLoader v0.5.7**  
-   https://github.com/LavaGang/MelonLoader/releases
-
-2. **TogetherMod (Release-0_4_16hf3)**  
-   https://github.com/Fozkais/CMS21-Together/releases/tag/Release-0_4_16hf3
-
-3. **FixesForTogether v2.0.4**  
-   https://www.nexusmods.com/carmechanicsimulator2021/mods/286
-
-4. **QoLmod v4.5**  
-   https://www.nexusmods.com/carmechanicsimulator2021/mods/105
-
-**Important:** Follow each mod creator's installation instructions before installing the IGY6 pack.
-
-The game must be the **up-to-date Steam version**, launched through Steam.
+Created and live tested by the **IGY6 Gaming Team**.
 
 ---
 
-## 📦 INSTALLATION
+## Features
+
+- **Two extra lifts** (Bay C / Bay D), registered as real car positions. They work in multiplayer and save and reload with your garage.
+- **Multiplayer fixes** for CMS21-Together, applied as runtime patches (Together itself is untouched):
+  - first-time joiners get their own item range (no duplicate items)
+  - mid-session joiners get the live money
+  - inventory and money resync after visiting the race track, junkyard and other areas
+  - car positions are restored after returning
+  - guards for empty-lift moves and late packets from disconnected players
+- **Tools on the new bays:** oil drainer, welder, engine crane, headlamp aligner, detailing kit and window tint kit.
+- **Placement editor** to move and rotate the outside building and both lifts.
+- **Prop editor** to copy game props into your building and arrange them.
+
+---
+
+## Requirements
+
+Install these first, following each creator's instructions:
+
+| Mod | Version | Link |
+|---|---|---|
+| MelonLoader | **0.5.7** | [Releases](https://github.com/LavaGang/MelonLoader/releases) |
+| TogetherMod | **Release-0_4_16hf3** | [Fozkais/CMS21-Together](https://github.com/Fozkais/CMS21-Together) |
+| FixesForTogether | latest | [Nexus Mods #286](https://www.nexusmods.com/carmechanicsimulator2021/mods/286) |
+| QoLmod | latest | [Nexus Mods #105](https://www.nexusmods.com/carmechanicsimulator2021/mods/105) |
+
+> The game must be the up-to-date **Steam** version, launched through Steam.
+
+---
+
+## Installation
 
 1. Install **MelonLoader v0.5.7**. Launch the game once, reach the main menu, then close it.
-2. Install **TogetherMod, FixesForTogether, and QoLmod**.
-3. Extract the **IGY6 Mod Pack**.
-4. Drag and drop all loose files from the IGY6 pack **DIRECTLY** into your game's `Mods` folder (not into a subfolder).
-5. Drag and drop the contents of the IGY6 `FixesForTogether` and `QoLmod` folders into their matching folders inside `Mods`.
-6. Drag and drop the included `MelonPreferences.cfg` into the game's `UserData` folder.
-7. Drag the assets from **ONLY ONE** of the 3 maps into the `Mods` folder. **We suggest the Large Garage.**
-8. Select **"Replace the files in the destination"** whenever prompted.
+2. Install **TogetherMod**, **FixesForTogether** and **QoLmod**.
+3. Extract the IGY6 Mod Pack.
+4. Drag all **loose files** from the pack **directly** into the game's `Mods` folder (not into a subfolder).
+5. Drag the **contents** of the pack's `FixesForTogether` and `QoLmod` folders into the matching folders inside `Mods`.
+6. Drag the included `MelonPreferences.cfg` into the game's `UserData` folder.
+7. Choose **only one** of the 3 maps and drag its assets into `Mods`. We suggest the **Large Garage**.
+8. Choose **"Replace the files in the destination"** whenever Windows asks.
 
-**These are preconfigured IGY6 settings and replacements. No manual configuration needed!**
+Keep only **one** copy of `IGY6FourBayMod.dll` in `Mods`.
 
-### Default Game Location
+**Default game location**
 
-```text
+```
 C:\Program Files (x86)\Steam\steamapps\common\Car Mechanic Simulator 2021
 ```
 
 ---
 
-## 🎮 MULTIPLAYER
+## Multiplayer
 
-1. Launch **CMS21** and select **Multiplayer**.
+1. Launch CMS21 and select **Multiplayer**.
 2. Change the connection from **TCP** to **Steam**.
-3. Invite your friends with your **Join ID** and start your save!
+3. Invite your friends with your join ID and start your save.
 
-**Important:** All players must install the same required mods, the same IGY6 pack files, and the same map.
-
-If you change the building placement or props, send your friends these files from the `Mods` folder so everyone matches:
-
-- `IGY6TwoBay_Placement.cfg`
-- `IGY6TwoBay_Props.cfg`
+> **Important:** all players must use the same required mods, the same IGY6 pack files and the same map.
+> If you change the building placement or props, share `IGY6TwoBay_Placement.cfg` and `IGY6TwoBay_Props.cfg` from your `Mods` folder.
 
 ---
 
-## ⌨️ HOTKEYS
+## Hotkeys
 
-### 🚗 Cars
+### Cars
 
-| Hotkey | Action |
+| Keys | Action |
 |---|---|
-| **Ctrl + J** | Send the waiting customer car to Bay C (outside left lift) |
-| **Ctrl + L** | Send the waiting customer car to Bay D (outside right lift) |
+| `Ctrl + H` or `Ctrl + 7` | Waiting car → **Bay C** (outside left lift) |
+| `Ctrl + K` or `Ctrl + 9` | Waiting car → **Bay D** (outside right lift) |
 
-### 🛠️ Tools
+Shift is optional (`Ctrl + Shift + 7 / 9` also works).
 
-Supported tools: **Oil Drainer, Welder, Engine Crane, Headlamp Aligner, Detailing Kit, Window Tint Kit**
+### Tools
 
-| Hotkey | Action |
+| Keys | Action |
 |---|---|
-| **Ctrl + Shift + C** or **Ctrl + Shift + Left Arrow** | Nearest tool to Bay C |
-| **Ctrl + Shift + D** or **Ctrl + Shift + Right Arrow** | Nearest tool to Bay D |
-| **Ctrl + Shift + 3** | Nearest tool to the nearest bay that has a car |
+| `Ctrl + Shift + C` or `Ctrl + Shift + ←` | Nearest tool → Bay C |
+| `Ctrl + Shift + D` or `Ctrl + Shift + →` | Nearest tool → Bay D |
+| `Ctrl + Shift + 3` | Nearest tool → nearest bay with a car |
 
-**Note:** Press the same keys again to send the tool back. Tools only move to a bay with a car.
+Press the same keys again to send the tool back. Tools only move to a bay with a car on it.
 
-### 🏗️ Building and Props
+### Building and props
 
-| Hotkey | Action |
+| Keys | Action |
 |---|---|
-| **Ctrl + Shift + P** | Placement editor — move/rotate the outside building and both lifts |
-| **Ctrl + Shift + O** | Prop editor — copy game props into your building and arrange them |
+| `Ctrl + Shift + P` | **Placement editor**: move / rotate the outside building and both lifts (solo only, Bay C and D empty and lowered) |
+| `Ctrl + Shift + O` | **Prop editor**: copy game props into your building and arrange them |
 
-**Placement Editor Requirements:** Solo only, with Bay C and D empty and lowered.
+### Editor keys
 
-### 🎛️ Editor Controls
-
-| Action | Numpad | Keyboard Alternative |
+| Action | Numpad | Keyboard |
 |---|---|---|
-| Move | Numpad 8 / 2 / 4 / 6 | Arrow Keys |
-| Up / Down | Numpad 9 / 3 | Page Up / Page Down |
-| Rotate | Numpad 7 / 1 | `,` / `.` |
-| Step Size | Numpad + / - | `=` / `-` |
-| Save | Numpad Enter | Enter |
+| Move | `8` `2` `4` `6` | Arrow keys |
+| Up / down | `9` `3` | `Page Up` `Page Down` |
+| Rotate | `7` `1` | `,` `.` |
+| Step size | `+` `-` | `=` `-` |
+| Save | `Enter` | `Enter` |
+| Copy aimed prop *(prop editor)* | `*` | `Insert` |
+| Place / select *(prop editor)* | `5` | `Home` |
+| Next prop *(prop editor)* | `0` | `End` |
+| Remove prop *(prop editor)* | `.` | `Delete` |
 
-### Prop Editor Only
-
-| Numpad | Keyboard Alternative | Action |
-|---|---|---|
-| Numpad * | Insert | Copy the prop you aim at (it follows your aim) |
-| Numpad 5 | Home | Place / Select |
-| Numpad 0 | End | Next Prop |
-| Numpad . | Delete | Remove Prop |
-
-**Press the editor's hotkey again to close or cancel.**
+Press the editor's hotkey again to close / cancel.
 
 ---
 
-## ⚙️ CHANGING THE HOTKEY MODIFIER
+## Troubleshooting
 
-**If Ctrl + Shift hotkeys do nothing:**
+### Ctrl + Shift hotkeys do nothing
 
-On some PCs, **Ctrl + Shift** switches the Windows keyboard language, preventing the game from detecting the key combination.
+On some PCs `Ctrl + Shift` switches the Windows keyboard language, so the game never receives the key.
 
 1. Open `UserData\MelonPreferences.cfg`.
-2. Find the `[IGY6TwoBay]` section.
-3. Change the setting to:
+2. Find `[IGY6TwoBay]`.
+3. Set:
 
-```ini
-HotkeyModifier = "CtrlAlt"
-```
+   ```ini
+   HotkeyModifier = "CtrlAlt"
+   ```
 
-4. Use **Ctrl + Alt** instead of **Ctrl + Shift** for the tool and editor hotkeys.
+Now use `Ctrl + Alt` instead of `Ctrl + Shift` for the tool and editor hotkeys. Other options: `"AltShift"` or `"None"`. The car keys (`Ctrl + H / K / 7 / 9`) always work.
 
-**Other available options:**
-- `"AltShift"`
-- `"None"`
+### Multiplayer doesn't work at all
 
-**Note:** The car hotkeys (**Ctrl + J / Ctrl + L**) never change.
+If `MelonLoader\Latest.log` shows `SteamApi_Init returned false`, the game isn't running through Steam. CMS21-Together needs the Steam version.
 
 ---
 
-## 🆘 SUPPORT
+## Configuration files
 
-Report issues by opening a **General Support Ticket** in our Discord:
+| File | Location | Purpose |
+|---|---|---|
+| `IGY6TwoBay_Placement.cfg` | `Mods` | Position / rotation of the outside building and Bay C / D (written by the placement editor) |
+| `IGY6TwoBay_Props.cfg` | `Mods` | Props copied into your building (written by the prop editor) |
+| `IGY6TwoBay_Replica.cfg` | `Mods` | Optional copy of the original garage shell (off by default) |
+| `MelonPreferences.cfg` | `UserData` | Settings under `[IGY6TwoBay]` (`HotkeyModifier`, `TripResyncMode`, ...) |
 
-**[Join IGY6 Gaming Discord](https://discord.gg/igy6)**
-
-Please attach the following log files from both the host and affected player:
-
-```text
-MelonLoader\Latest.log
-```
+All players must use the same `.cfg` files in the `Mods` folder.
 
 ---
 
-## 🏆 IGY6 GAMING TEAM
+## Building from source
 
-| Member | Role |
+Requires the .NET SDK and a game install where MelonLoader 0.5.7 has run once (to generate `MelonLoader\Managed`). No game files are included in this repository.
+
+```powershell
+dotnet build -c Release -p:GameDir="C:\Program Files (x86)\Steam\steamapps\common\Car Mechanic Simulator 2021"
+```
+
+The DLL is written to `bin\Release\net472\`. Add `-p:DeployToGame=true` to copy it into your `Mods` folder. See `CHANGELOG.md` for the full history.
+
+---
+
+## Support
+
+Open a **General Support Ticket** on our Discord: **[discord.gg/igy6](https://discord.gg/igy6)**
+
+Please attach `MelonLoader\Latest.log` from the host and the affected player.
+
+---
+
+## IGY6 Gaming Team
+
+| Name | Role |
 |---|---|
+| LordFarquadFr | Developer |
 | OogieBoogie | Tester |
 | Rusty | Tester |
 | xL00MYx | Tester |
 | CharredCheeto | Tester |
-| **LordFarquadFr** | **Developer** |
 
-**Created and live tested by the IGY6 Gaming Team.**
+**Credits:** CMS21-Together by Fozkais · FixesForTogether by TogetherFixer · QoLmod by Meitzi · MelonLoader by LavaGang
+
+## License
+
+MIT, see [LICENSE](LICENSE). Not affiliated with Red Dot Games or PlayWay.
 
 ---
 
-### I GOT YOUR 6! - IGY6 Gaming
+<p align="center"><b>I GOT YOUR 6! – IGY6 Gaming</b></p>
