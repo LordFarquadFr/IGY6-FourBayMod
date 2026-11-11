@@ -10,7 +10,7 @@
    https://github.com/LavaGang/MelonLoader/releases
 
 2. **TogetherMod (Release-0_4_16hf3)**  
-   https://github.com/Fozkais/CMS21-Together
+   https://github.com/Fozkais/CMS21-Together/releases/tag/Release-0_4_16hf3
 
 3. **FixesForTogether**  
    https://www.nexusmods.com/carmechanicsimulator2021/mods/286
