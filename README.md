@@ -6,6 +6,8 @@ Two extra working lifts outside your garage (**Bay C** and **Bay D**), multiplay
 
 Created and live tested by the **IGY6 Gaming Team**.
 
+**IMPORTANT:** If you have previously installed, deleted the old IGY6TwoBayMod.dll - I changed the name in the latests update version 1.2.2 to IGY6FourBayMod.dll so having both in will cause the game to crash on start.
+
 ---
 
 ## Features
