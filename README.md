@@ -10,12 +10,12 @@
    https://github.com/LavaGang/MelonLoader/releases
 
 2. **TogetherMod (Release-0_4_16hf3)**  
-   https://github.com/Fozkais/CMS21-Together
+   https://github.com/Fozkais/CMS21-Together/releases/tag/Release-0_4_16hf3
 
-3. **FixesForTogether**  
+3. **FixesForTogether v2.0.4**  
    https://www.nexusmods.com/carmechanicsimulator2021/mods/286
 
-4. **QoLmod**  
+4. **QoLmod v4.5**  
    https://www.nexusmods.com/carmechanicsimulator2021/mods/105
 
 **Important:** Follow each mod creator's installation instructions before installing the IGY6 pack.
